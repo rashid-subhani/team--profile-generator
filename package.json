@@ -1,0 +1,23 @@
+{
+  "name": "team--profile-generator",
+  "version": "1.0.0",
+  "description": "Empower's team identity with Team profile generator. A user friendly tool designed for quick and concise team introductions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashid-subhani/team--profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashid-subhani/team--profile-generator/issues"
+  },
+  "homepage": "https://github.com/rashid-subhani/team--profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.14"
+  }
+}
