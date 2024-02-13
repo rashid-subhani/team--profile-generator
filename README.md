@@ -3,7 +3,10 @@ Empower's team identity with Team profile generator. A user friendly tool design
 
 ## Screenshot of HTML and test result in jest after added --coverage:
 ![alt text](team-gen.png)
-![alt text](test-result.png). (jest--coverage) in package.json. This will create a new folder coverage & in coverage another folder Icov-report, when visit in there, it is index.html file there which gives us 100% result of test.)
+![alt text](test-result.png). (jest--coverage) in package.json. This will create a new folder coverage & in coverage another folder Icov-report, when visit in there, it is index.html file there which gives us 100% result of test.
+
+## Google Drive HTML link:
+https://drive.google.com/file/d/1dAWPzYhifRCCS7YgHubAkddPkz1hNtFr/view?usp=sharing
 
 
 ## Project Overview:
